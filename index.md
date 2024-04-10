@@ -2,6 +2,8 @@
 
 ## Qui sommes-nous ?
 
+La cellule de bioinformatique ODILE a pour but de ...
+
 _Comité exécutif_
 -	Responsable Scientifique : Elodie Darbo
 -	Cyril Dourthe
