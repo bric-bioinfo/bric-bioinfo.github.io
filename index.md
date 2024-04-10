@@ -1,4 +1,4 @@
-<img src="horizontal-bric-1.png" alt="BRIC" width="200"/> <img src="LOGO_ODILE.png" alt="ODILE" width="150"/>
+<img src="horizontal-bric-1.png" alt="BRIC" width="240"/> <img src="LOGO_ODILE.png" alt="ODILE" width="150"/>
 
 ## Qui sommes-nous ?
 
