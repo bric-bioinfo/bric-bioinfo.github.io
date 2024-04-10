@@ -25,6 +25,7 @@ _Comité Utilisateurs·trices expert·e·s_
 ## Bac à sable
 
 Nous mettons à disposition aux membres du BRIC une [boite à idées](https://bricbordeaux.sharepoint.com/:f:/s/Bioinformatique-ODILE/EmxWqC8e19hAnHp3BQSGqKEBFhAwiiDrJs9gmGC_MIia8g?e=80eBpz) dans laquelle vous pourrez y déposer vos idées concernant la visualisation de vos résultats. Un modèle y est d'ailleurs disponible.
+L'idée est de pouvoir identifier au sein de notre unité les compétences déjà présentes et de faciliter leurs échanges et transferts.
 
 ## Recensement des compétences
 
