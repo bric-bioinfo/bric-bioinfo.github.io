@@ -1,5 +1,7 @@
 [Page d'accueil](../index.md)
 
+Nous avons mis en place une réunion bimensuelle permettant à tous les stagiaires M2 (BRIC et LaBRIC) de se rencontrer régulièrement, de parler de façon informelle de leur projet, de leurs avancées ou bloquages et d'échanger sur la bioinformatique.
+
 ## 2023-2024
 
 **Etude de la régulation transcriptionnelle de la voie de synthèse des pyrimidines dans les cellules de la peau en réponse à l'exposition aux UV.** \
