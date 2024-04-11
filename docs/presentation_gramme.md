@@ -2,8 +2,8 @@
 
 _Organigramme_
 
-<img src="../organigramme_cellule.png" alt="organigramme" width="240"/> 
+<img src="../organigramme_cellule.png" alt="organigramme" width="200"/> 
 
 _Logigramme_
 
-<img src="../Environnement ODILE.png" alt="logigramme" width="400"/> 
+<img src="../Environnement ODILE.png" alt="logigramme" width="600"/> 
