@@ -54,7 +54,7 @@ Porteuse BRIC: Catherine Sawai (Dpt SBM); porteur LaBRI: Loic Paulevé (Dpt SIN,
 
 ## Rencontres
 
-2024: A venir ...
+2024: A venir ... \
 2023-06-05: Première rencontre organisée dans l'amphi du LaBRI [Programme](Programme_LaBRIC_20230605.pdf)
 
 
