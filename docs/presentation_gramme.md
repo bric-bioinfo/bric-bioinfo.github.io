@@ -4,7 +4,7 @@
 
 _Organigramme_
 
-<p style="text-align: center;"><img src="../organigramme_cellule.png" alt="organigramme" width="200"/></p>
+<p style="text-align: center;"><img src="../organigramme_cellule.png" alt="organigramme" width="300"/></p>
 
 _Logigramme_
 
