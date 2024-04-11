@@ -3,7 +3,7 @@
 
 ## Qui sommes-nous ?
 
-La cellule de bioinformatique ODILE a pour but de ...
+La cellule de bioinformatique ODILE a pour but d'accompagner les membres du BRIC dans leur projet impliquant des expertises en bioinformatique suivant la stratégie présentée au travers de nos missions décrites dans la section éponyme.
 
 _Comité exécutif_
 -	Responsable Scientifique : Elodie Darbo
