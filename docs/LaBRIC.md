@@ -5,11 +5,11 @@
 <div style="text-align: justify">
 A l'initiative d'Elodie Darbo, Ingénieure de Recherche en bioinformatique au sein du BRIC, responsable de la cellule ODILE, cette collaboration se développe depuis 2023 dans le but de mutualiser les compétences en biologie, bioinformatique et informatique nécessaires aujourd'hui à l'élaboration de projets interdisciplinaires ambitieux dans le domaine de la santé.
 </div>
+
 ### BRIC
 <div style="text-align: justify">
 Le BoRdeaux Institute of onCology ([BRIC](https://www.bricbordeaux.com)) développe une recherche de pointe dont les objectifs sont de comprendre les mécanismes sous-jacents aux maladies cancéreuses et identifier des caractéristiques moléculaires spécifiques aux tumeurs développées dans des groupes de patient·e·s. Pour cela, les différents projets mènent à la production de données massives provenant de diverses technologies de séquençage et d'imagerie. La cellule ODILE, de par ses missions, permet un accompagnement sur certains projets mais ne répondent pas à tous les besoins, notamment le développement de nouvelles méthodes pour l'intégration de données, la prise en charge de projets d'analyses approfondies, un apport exhaustif de compétences  (_e.g._ analyse d'images).
 </div>
-
 
 ### LaBRI
 <div style="text-align: justify">
