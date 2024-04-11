@@ -34,7 +34,7 @@ L'idée est de pouvoir identifier au sein de notre unité les compétences déj�
 
 ## Recensement des compétences
 
-Nous mettons à disposition [un fichier](https://bricbordeaux.sharepoint.com/:x:/s/Bioinformatique-ODILE/Ee_IXmXP3r1LlPqMqxGpE40BX_I_AYMhtoLguku24_Qj5g?e=IrDkgL) où chacun est libre de s'y ajouter pour y faire apparaitre des compétences de tout niveau en bioinformatique. Cela peut concerner à la fois la maitrise de bases données ou d'outils en ligne, la montée en compétence d'analyse de données spécifiques (RNA-seq, CHIP-seq, single cell, protéomique spatiale etc.).
+Nous mettons à disposition [un tableur](https://bricbordeaux.sharepoint.com/:x:/s/Bioinformatique-ODILE/Ee_IXmXP3r1LlPqMqxGpE40BX_I_AYMhtoLguku24_Qj5g?e=IrDkgL) où chacun est libre de s'y ajouter pour y faire apparaitre des compétences de tout niveau en bioinformatique. Cela peut concerner à la fois la maitrise de bases données ou d'outils en ligne, la montée en compétence d'analyse de données spécifiques (RNA-seq, CHIP-seq, single cell, protéomique spatiale etc.).
 
 ## Nous joindre
 
