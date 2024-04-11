@@ -4,9 +4,7 @@
 
 <p style="text-align: center;"><img src="test_logo3.png" alt="ODILE" width="200"/></p>
 
-<div class=text-justify>
-La cellule de bioinformatique ODIL (Omics Data Integration & visuaLisation) a pour but d'accompagner les membres du BRIC dans leur projet impliquant des expertises en bioinformatique suivant la stratégie présentée au travers de nos missions décrites dans la section éponyme.
-</div>
+La cellule de bioinformatique ODIL (**O**mics **D**ata **I**ntegration & visua**L**isation) a pour but d'accompagner les membres du BRIC dans leur projet impliquant des expertises en bioinformatique suivant la stratégie présentée au travers de nos missions décrites dans la section éponyme.
 
 _Comité exécutif_
 -	Responsable Scientifique : Elodie Darbo
@@ -22,37 +20,19 @@ _Comité Utilisateurs·trices expert·e·s_
 
 ## Nos missions
 
-<div class=text-justify>
--	Consolider le lien avec l' axe Santé-Numérique du Laboratoire Bordelais de Recherche en Informatique (LaBRI) par le co-encadrement de Master/Doctorant·e/Post-Doc et par l'organisation de rencontres LaBRIC entre les deux unités. Voir: <a href="docs/LaBRIC.md">Qu'est-ce que le LaBRIC ?</a>
-</div>
-<div class=text-justify>
--	Encadrement de stagiaires en bioinformatique (M1/M2) et d’ingénieur·e·s (IE) (<a href="docs/encadrement.md">Encadrements</a>)
-</div>
-<div class=text-justify>
+-	Consolider le lien avec l' axe Santé-Numérique du Laboratoire Bordelais de Recherche en Informatique (LaBRI) par le co-encadrement de Master/Doctorant·e/Post-Doc et par l'organisation de rencontres LaBRIC entre les deux unités. Voir: [Qu'est-ce que le LaBRIC ?](docs/LaBRIC.md)
+-	Encadrement de stagiaires en bioinformatique (M1/M2) et d’ingénieur·e·s (IE). Voir [Encadrements passé et en cours](docs/encadrement.md)
 -	Accompagnement pour la réponse à des appels à projets
-</div>
-<div class=text-justify>
 -	Développement d’outils interfacés et mise à disposition des chercheurs pour l’exploration et la visualisation de résultats
-</div>
-<div class=text-justify>
 -	Mise en place progressive d’une base de données interne au BRIC
-</div>
-<div class=text-justify>
 -	Formation à l’utilisation d’outils
-</div>
-<div class=text-justify>
 -	Faire remonter les besoins des équipes pour aider à l’amélioration des outils (ex : ajout de fonctionnalités) ou pour la création de nouveaux outils grâce à des réunions régulières entre utilisteurs et concepteurs.
-</div>
 
 ## Bac à sable
 
-<div class=text-justify>
-Nous mettons à disposition aux membres du BRIC une <a href="https://bricbordeaux.sharepoint.com/:f:/s/Bioinformatique-ODILE/EmxWqC8e19hAnHp3BQSGqKEBFhAwiiDrJs9gmGC_MIia8g?e=80eBpz">boite à idées</a> dans laquelle vous pourrez y déposer vos idées concernant la visualisation de vos résultats. <a href="https://bricbordeaux.sharepoint.com/:w:/s/Bioinformatique-ODILE/Ea2afKky_QdJjeY8pDzz2rwBYhwmXL-2KREUOgOLUKN98A?e=VdcPhy"> Un modèle</a> y est d'ailleurs disponible. 
-</div>
+Nous mettons à disposition aux membres du BRIC une [boite à idées](https://bricbordeaux.sharepoint.com/:f:/s/Bioinformatique-ODILE/EmxWqC8e19hAnHp3BQSGqKEBFhAwiiDrJs9gmGC_MIia8g?e=80eBpz) dans laquelle vous pourrez y déposer vos idées concernant la visualisation de vos résultats. [Un modèle](https://bricbordeaux.sharepoint.com/:w:/s/Bioinformatique-ODILE/Ea2afKky_QdJjeY8pDzz2rwBYhwmXL-2KREUOgOLUKN98A?e=VdcPhy) y est d'ailleurs disponible. 
 
-<div class=text-justify>
 L'idée est de pouvoir identifier au sein de notre unité les compétences déjà présentes et de faciliter leurs échanges et transferts.
-</div>
 
 ## Recensement des compétences
 
