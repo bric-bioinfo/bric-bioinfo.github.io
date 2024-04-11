@@ -1,6 +1,6 @@
-<img src="logo_LaBRIC.jpg" alt="LaBRIC" width="400"/>
+[Page d'accueil](../index.md)
 
-## Pourquoi le LaBRIC ?
+## Pourquoi le <img src="logo_LaBRIC.jpg" alt="LaBRIC" width="200"/> ?
 
 A l'initiative d'Elodie Darbo, Ingénieure de Recherche en bioinformatique au sein du BRIC, responsable de la cellule ODILE, cette collaboration se développe depuis 2023 dans le but de mutualiser les compétences en biologie, bioinformatique et informatique nécessaires aujourd'hui à l'élaboration de projets interdisciplinaires ambitieux dans le domaine de la santé.
 
