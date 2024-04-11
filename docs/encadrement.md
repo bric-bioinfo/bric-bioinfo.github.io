@@ -15,3 +15,16 @@ Co-encadrant·e·s: Marion Bouchecareilh (Equipe 8), Samuel Amintas (Equipe 8)
 Financement: Interne équipe 3
 Stagiaire: Pierre Loic Gouttebel (Université Aix-Marseille)
 
+**Projet**: Évolution phylo(épi)génétique du locus PTEN
+Co-encadrant·e·s: Raluca Uricaru (LaBRI, BKB); Elodie Darbo (Equipe 7, ODILE), Thibaut Matis (Equipe 8)
+Financement: LaBRIC
+Stagiaire: Sabri-Nazim Mechkouri (Université de Montpellier)
+
+**Projet**: Analyse d’images de microscopie, quantification de gouttelettes lipidiques dans des structures cellulaires en 3D 
+Co-encadrantes: Lucie Brisson (Equipe 1), Marie Beurton-Aimar (LaBRI, IS)
+Financement: LaBRIC
+Stagiaire: Laurent Busson (Université de Bordeaux)
+
+**Projet**: Combination of CMS classification and Proteomics for Precision Medicine in Metastatic Colorectal Cancer
+Co-encadrant·e·s: Patricia Thebault (LaBRI, BKB), Majid Katib (Equipe 2)
+Stagiaire: Theo Moser (Université de Bordeaux)
