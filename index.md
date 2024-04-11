@@ -20,7 +20,7 @@ _Comité Utilisateurs·trices expert·e·s_
 ## Nos missions
 
 -	Consolider le lien avec l' axe Santé-Numérique du Laboratoire Bordelais de Recherche en Informatique (LaBRI) par le co-encadrement de Master/Doctorant·e/Post-Doc et par l'organisation de rencontres LaBRIC entre les deux unités. [Qu'est-ce que le LaBRIC ?](docs/LaBRIC.md)
--	Encadrement de stagiaires en bioinformatique (M1/M2) et d’ingénieur·e·s (IE) ([Encadrements](docs/encadrement.md)
+-	Encadrement de stagiaires en bioinformatique (M1/M2) et d’ingénieur·e·s (IE) ([Encadrements](docs/encadrement.md))
 -	Accompagnement pour la réponse à des appels à projets
 -	Développement d’outils interfacés et mise à disposition des chercheurs pour l’exploration et la visualisation de résultats
 -	Mise en place progressive d’une base de données interne au BRIC
