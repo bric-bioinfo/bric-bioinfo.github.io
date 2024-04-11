@@ -3,7 +3,6 @@
 ## Qui sommes-nous ?
 
 <p style="text-align: center;"><img src="test_logo3.png" alt="ODILE" width="200"/></p>
-<div style="text-align: justify">
 
 La cellule de bioinformatique ODIL (Omics Data Integration & visuaLisation) a pour but d'accompagner les membres du BRIC dans leur projet impliquant des expertises en bioinformatique suivant la stratégie présentée au travers de nos missions décrites dans la section éponyme.
 
@@ -41,4 +40,3 @@ Nous mettons à disposition [un tableur](https://bricbordeaux.sharepoint.com/:x:
 ## Nous joindre
 
 Contact : elodie.darbo@u-bordeaux.fr
- </div>
