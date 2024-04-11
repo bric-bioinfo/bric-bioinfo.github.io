@@ -4,8 +4,9 @@
 
 _Organigramme_
 
-<img src="../organigramme_cellule.png" alt="organigramme" width="200"/> 
+<p style="text-align: center;"><img src="../organigramme_cellule.png" alt="organigramme" width="200"/></p>
 
 _Logigramme_
 
-<img src="../Environnement ODILE.png" alt="logigramme" width="600"/> 
+<p style="text-align: center;"><img src="../Environnement ODILE.png" alt="logigramme" width="600"/></p>
+
