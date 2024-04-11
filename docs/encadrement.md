@@ -22,7 +22,7 @@ Co-encadrant·e·s: Raluca Uricaru (LaBRI, BKB); Elodie Darbo (Equipe 7, ODILE),
 Financement: LaBRIC \
 Stagiaire: Sabri-Nazim Mechkouri (Université de Montpellier)
 
-**Analyse d’images de microscopie, quantification de gouttelettes lipidiques dans des structures cellulaires en 3D ** \
+**Analyse d’images de microscopie, quantification de gouttelettes lipidiques dans des structures cellulaires en 3D** \
 Co-encadrantes: Lucie Brisson (Equipe 1), Marie Beurton-Aimar (LaBRI, IS) \
 Financement: LaBRIC \
 Stagiaire: Laurent Busson (Université de Bordeaux)
