@@ -2,6 +2,8 @@
 
 ## 2023-2024
 
+<div style="text-align: justify">
+
 **Etude de la régulation transcriptionnelle de la voie de synthèse des pyrimidines dans les cellules de la peau en réponse à l'exposition aux UV.** \
 Co-encadrant·e·s: Hamid Rezvani (Equipe 5), Elodie Darbo (Equipe 7, ODILE) \
 Financement: BRIC inter-équipes \
@@ -31,3 +33,5 @@ Stagiaire: Laurent Busson (Université de Bordeaux)
 Co-encadrant·e·s: Patricia Thebault (LaBRI, BKB), Majid Katib (Equipe 2) \
 Financement: LaBRIC \
 Stagiaire: Theo Moser (Université de Bordeaux)
+
+</div>
