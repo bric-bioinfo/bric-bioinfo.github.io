@@ -6,4 +6,4 @@ _Organigramme_
 
 _Logigramme_
 
-<img src="../Environnement ODILE.png" alt="logigramme" width="240"/> 
+<img src="../Environnement ODILE.png" alt="logigramme" width="400"/> 
