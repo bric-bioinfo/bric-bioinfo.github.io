@@ -3,6 +3,9 @@
 ## Pourquoi le LaBRIC ?
 
 ## Les opportunités
+
+Demandes de finacement M2 LaBRIC: [Modèle](https://bricbordeaux.sharepoint.com/:w:/s/Bioinformatique-ODILE/EZo57v-bfdBFjGJNh4Cp3PYBOu90rcRFsrZS8II9nB4rJw?e=jquU55)
+
 ### 2023-2024
 
 - 4 bourses pour le recrutement de master 2 ont été offertes par les unités (2 BRIC, 2 LaBRI), 3 ont été pourvues
