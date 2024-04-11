@@ -46,7 +46,7 @@ Stagiaire Master 2: Theo Moser (Université de Bordeaux)
 
 - Financement inter-département en réponse à l'Appel à projets de recherche interdisciplinaire et exploratoire (APP RIE).
 
-***HEMAMOX: Influence du vieillissement sur la différenciation des cellules Hématopoïétiques: des données single-cell aux Modèles formels eXplicatifs** \
+**HEMAMOX: Influence du vieillissement sur la différenciation des cellules Hématopoïétiques: des données single-cell aux Modèles formels eXplicatifs** \
 Recrutement d'une post-doctorante pour 12 mois. \
 Porteuse BRIC: Catherine Sawai (Dpt SBM); porteur LaBRI: Loic Paulevé (Dpt SIN, M2F)
 
