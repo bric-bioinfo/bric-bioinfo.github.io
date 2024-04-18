@@ -11,6 +11,7 @@ _Comité exécutif_
 -	Cyril Dourthe
 
 _Comité Utilisateurs·trices expert·e·s_
+- Anne Persoz
 -	Samuel Amintas
 -	Anne-Aurélie Raymond
 -	Audrey Gros
