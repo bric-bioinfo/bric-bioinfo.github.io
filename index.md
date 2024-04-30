@@ -38,6 +38,12 @@ L'idée est de pouvoir identifier au sein de notre unité les compétences déj�
 
 Nous mettons à disposition [un tableur](https://bricbordeaux.sharepoint.com/:x:/s/Bioinformatique-ODILE/Ee_IXmXP3r1LlPqMqxGpE40BX_I_AYMhtoLguku24_Qj5g?e=IrDkgL) où chacun est libre de s'y ajouter pour y faire apparaitre des compétences de tout niveau en bioinformatique. Cela peut concerner à la fois la maitrise de bases données ou d'outils en ligne, la montée en compétence d'analyse de données spécifiques (RNA-seq, CHIP-seq, single cell, protéomique spatiale etc.).
 
+## Evénements
+
+**Save the date** : La cellule est en train d'organniser la seconde matinée de rencontre entre le BRIC et le LaBRIC qui aura lieu le **mercredi 25 Mai** de **9h30** à **12h** à l'amphithéatre du BBS. Nous prévoyons une pause café et un buffet/cocktail afin de nous permettre d'échanger.
+
+Voici le [programme préliminaire]()
+
 ## Nous joindre
 
 Contact : elodie.darbo@u-bordeaux.fr
