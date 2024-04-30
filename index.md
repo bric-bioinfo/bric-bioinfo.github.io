@@ -4,7 +4,7 @@
 
 <p style="text-align: center;"><img src="test_logo3.png" alt="ODILE" width="200"/></p>
 
-La cellule de bioinformatique ODIL (**O**mics **D**ata **I**ntegration & visua**L**isation) a pour but d'accompagner les membres du BRIC dans leur projet impliquant des expertises en bioinformatique suivant la stratégie présentée au travers de nos missions décrites dans la section éponyme.
+La cellule de bioinformatique O·D·I·L (**O**mics **D**ata **I**ntegration & visua**L**isation) a pour but d'accompagner les membres du BRIC dans leur projet impliquant des expertises en bioinformatique suivant la stratégie présentée au travers de nos missions décrites dans la section éponyme.
 
 _Comité exécutif_
 -	Responsable Scientifique : Elodie Darbo
